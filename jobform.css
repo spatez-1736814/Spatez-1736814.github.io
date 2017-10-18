@@ -1,0 +1,35 @@
+head{
+	color: Blue;
+}
+
+body{ 
+    background: -webkit-linear-gradient(left, red , yellow);
+}
+
+h2{
+	font-weight: bold;
+	color: white;
+	border: dotted 10px pink;
+	padding: 50px;
+	text-align: Center;
+}
+
+#header{
+	font-weight: bold;
+	color: white;
+	
+}
+
+#footer{
+	background-color: purple;
+	
+}
+
+legend{
+	background-color: yellow;
+	border: dashed 5px teal;
+}
+
+#first{
+	background-color: navy;
+}
